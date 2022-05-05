@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently brushing up my skills
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React-native
 
 - 💬 Ask me about DSA, CP and MERN 
 
